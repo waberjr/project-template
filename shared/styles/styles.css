@@ -1,0 +1,111 @@
+.height-100{
+    height: 100vh;
+}
+
+.padding-s{
+    padding: 20px;
+}
+
+.padding-m{
+    padding: 40px;
+}
+
+.padding-l{
+    padding: 80px;
+}
+
+.padding-s-left{
+    padding-left: 20px;
+}
+
+.padding-s-right{
+    padding-right: 20px;
+}
+
+/* small spaces */
+.top-space-s{
+    margin-top: 20px;
+}
+
+.right-space-s{
+    margin-right: 20px;
+}
+
+.bottom-space-s{
+    margin-bottom: 20px;
+}
+
+.left-space-s{
+    margin-left: 20px;
+}
+
+/* medium spaces */
+.top-space-m{
+    margin-top: 40px;
+}
+
+.right-space-m{
+    margin-right: 40px;
+}
+
+.bottom-space-m{
+    margin-bottom: 40px;
+}
+
+.left-space-m{
+    margin-left: 40px;
+}
+
+/* large spaces */
+.top-space-l{
+    margin-top: 80px;
+}
+
+.right-space-l{
+    margin-right: 80px;
+}
+
+.bottom-space-l{
+    margin-bottom: 80px;
+}
+
+.left-space-l{
+    margin-left: 80px;
+}
+
+.space-s{
+    margin: 20px;
+}
+
+.space-m{
+    margin: 40px;
+}
+
+.space-l{
+    margin: 80px;
+}
+
+.row-no-space{
+    margin-bottom: -20px /* Reseting materialize row margin */
+}
+
+.disabled-color{
+    color: #9E9E9E;
+}
+
+.overflow{
+    overflow: auto;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.border-radius{
+    border-radius: 20px;
+}
+
+.border{
+    border-width: thin;
+    border-style: solid;
+}
